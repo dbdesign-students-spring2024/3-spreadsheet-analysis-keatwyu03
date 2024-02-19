@@ -71,7 +71,7 @@ If there are some scrubbing tasks that you simply cannot complete in Python, you
 
 ## Part 2: Data analysis in a spreadsheet
 
-### Import data into a spreadsheet
+### Import data into a spreadsheetMa
 
 Import your newly-scrubbed data file into a sheet in the spreadsheet program of your choice, such as Microsoft Excel, Google Sheets, Apple Numbers, or Libre Office. If it doesn't import correctly, keep working on the scrubbing of your data until it does!
 
